@@ -1,0 +1,21 @@
+enqueue 3 1 hello
+enqueue 2 1 !
+enqueue 2 2 world
+print
+dequeue
+dequeue
+dequeue
+enqueue 4 2 hello
+enqueue 2 1 little
+enqueue 3 1 my
+bad_command
+enqueue 1 0 friend
+enqueue 4 5 say
+enqueue 3 2 to
+print
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue

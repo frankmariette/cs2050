@@ -1,7 +1,5 @@
-./Notes
-./Powerpoints
-./*.doc
-./cs1050material
-./DS_Store
-./cs2050\ hw1.doc
-./FA13_CS2050_Syllabus\(2\).doc
+/Notes
+/Powerpoints
+/cs1050material
+.DS_Store
+*.doc

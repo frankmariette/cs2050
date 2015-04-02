@@ -3,8 +3,8 @@
    Project Key: ibm
    Lab secontion: E
    Name: Francois Mariette
-   PawPrint: FHMQPD
-   Student Number: 14103682
+   PawPrint: 
+   Student Number: 
 */
 
 #include <stdio.h>

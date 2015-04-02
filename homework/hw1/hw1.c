@@ -1,5 +1,5 @@
 /* Francois Mariette
- 14103682
+ 
  Homework 1 */
 #include <stdio.h>
 #include <stdlib.h>

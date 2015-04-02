@@ -1,6 +1,6 @@
 /* Prelab 3: prelab3.c
    Francois Mariette
-   14103682
+   
    CS2050 Lab section: e */
 #include <stdio.h>
 #include <stdlib.h>

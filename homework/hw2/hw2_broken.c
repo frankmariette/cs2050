@@ -1,6 +1,6 @@
 /* Name: Francois Mariette
-   PawPrint: FHMQPD
-   Student Number: 14103682
+   PawPrint: 
+   Student Number: 
    Homework: Homework 2
    Lab Section: e
 */

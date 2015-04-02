@@ -3,8 +3,8 @@
  Project Key: LAB6
  Lab section: e
  Name: Francois Mariette
- PawPrint: fhmqpd
- Student Number: 14103682
+ PawPrint: 
+ Student Number: 
  */
 
 #include <stdio.h>

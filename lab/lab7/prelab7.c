@@ -1,6 +1,6 @@
 /* Francois Mariette
    Prelab 7
-   14103682
+   
 */
 
 #include <stdio.h>

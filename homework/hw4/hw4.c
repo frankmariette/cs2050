@@ -1,8 +1,8 @@
 /* Francois Mariette
  Homework 4
  Lab section: e
- Student Number: 14103682
- PawPrint: FHMQPD
+ Student Number: 
+ PawPrint: 
  */
 
 #include <stdio.h>
